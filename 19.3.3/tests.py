@@ -1,6 +1,4 @@
-# Работа с API питомника через модуль requests
 
-# Импортируем модуль requests для работы с API
 
 import requests
 
